@@ -1,6 +1,6 @@
 ---
-layout: post
 title: How-to-connect-to-NAS
+published: true
 ---
 ## How to connect to NAS 
 
