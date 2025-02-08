@@ -6,15 +6,15 @@ published: true
 
 1. Start File Explorer
 
-![rtaImage.png](</attachments/6fff9eb2bffaf37a-rtaImage.png>)
+![rtaImage.png](<_posts/attachments/6fff9eb2bffaf37a-rtaImage.png>)
 
 1. "Dieser PC" auswählen, drei Punkte, Netzwerklaufwerk
 
-    ![rtaImage.png](</attachments/49228a2ec55d86f4-rtaImage.png>)
+    ![rtaImage.png](<_posts/attachments/49228a2ec55d86f4-rtaImage.png>)
 
 2. Bei Ordner (Folder) " [https://nas.tuuuni.ch/home](<https://tuuuni.diskstation.me:5006/home>) " einfügen
 
-![rtaImage.png](</attachments/3667fd185cc5d833-rtaImage.png>)
+![rtaImage.png](<_posts/attachments/3667fd185cc5d833-rtaImage.png>)
 
 1. Folgende Checkboxen Auswählen
 
