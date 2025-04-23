@@ -1,6 +1,6 @@
 ---
 title: How-to-connect-to-NAS
-published: true
+published: false
 ---
 ## How to connect to NAS 
 
